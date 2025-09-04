@@ -31,7 +31,7 @@ From the attacked machine run the following command:
 
 ![msfvenom shellcode executed](https://i.imgur.com/2LMnHgQ.png)
 
-![Havoc console](https://i.imgur.com/Fhn140K.png)
+![Havoc console](https://i.imgur.com/sk72waR.png)
 
 
 > [!WARNING]
