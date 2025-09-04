@@ -7,7 +7,7 @@ It uses [acheron](https://github.com/f1zm0/acheron) to make some indirect syscal
 ### Compiling
 
 ```bash
-go build -ldflags="-s -w" loader.go
+GOOS=windows GOARCH=amd64 go build -ldflags="-s -w" loader.go
 ```
 
 ### Usage
