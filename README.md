@@ -4,7 +4,7 @@ A simple golang loader that bypass Defender.
 It uses [acheron](https://github.com/f1zm0/acheron) to make some indirect syscalls.
 > I am currently working on improving this project and enhancing my skills in offensive Go. Any feedback is welcome!
 
-### Compiling
+### Compilation
 
 ```bash
 GOOS=windows GOARCH=amd64 go build -ldflags="-s -w" loader.go
